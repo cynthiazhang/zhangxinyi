@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: ""
+title: "Xinyi ZHANG's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am currently an Associate Researcher at the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS). I am also a Master's Supervisor at the University of Chinese Academy of Sciences (UCAS). I obtained my Bachelor's degree from Beijing University of Posts and Telecommunications in 2016, and my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences, in 2022 (advised by Prof. Gaogang Xie). 
+
+My research interests include computer network system architecture, network artificial intelligence, 6G networks, and optimization of new XR applications.
 
 
 A data-driven personal website xxxxxx
