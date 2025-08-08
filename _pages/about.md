@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS). I am also a Master's Supervisor at the University of Chinese Academy of Sciences (UCAS). I obtained my Bachelor's degree from Beijing University of Posts and Telecommunications in 2016, and my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences, in 2022 (advised by Prof. Gaogang Xie). 
+I am currently an Associate Professor at the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS). I am also a Master's Supervisor at the University of Chinese Academy of Sciences (UCAS). I obtained my Bachelor's degree from Beijing University of Posts and Telecommunications in 2016, and my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences, in 2022 (advised by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~gaogang)). 
 
 My research interests include computer network system architecture, network artificial intelligence, 6G networks, and optimization of XR applications.
 
-We are currently looking for interns. If you are interested, feel free to contact me via email（xyzhang@cnic.cn）.
+We are currently looking for interns. If you are interested, feel free to contact me via e-mail.
 
 
 
