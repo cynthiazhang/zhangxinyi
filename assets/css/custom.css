@@ -1,0 +1,9 @@
+.author__avatar img {
+  border-radius: 0 !important;   /* 去掉头像圆角 */
+  width: auto;                   /* 按原图宽度 */
+  height: auto;                  /* 按原图高度 */
+}
+
+#theme-toggle {
+  display: none !important;      /* 隐藏右上角主题切换按钮 */
+}
