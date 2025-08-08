@@ -11,14 +11,17 @@ I am currently an Associate Professor at the Computer Network Information Center
 
 My research interests include computer network system architecture, network artificial intelligence, 6G networks, and optimization of XR applications.
 
+We are currently looking for interns. If you are interested, feel free to contact me via email（xyzhang@cnic.cn）.
+
+
 
 Publications
 ======
-1. Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, Xilai Liu, Kavé Salamatian, Changhua Pei, Gaogang Xie. NPC: Rethinking Dataplane through Network-aware Packet Classification (SIGCOMM, 2025)
+1. Xinyi Zhang, Qianrui Qiu, Zhiyuan Xu, Peng He, Xilai Liu, Kavé Salamatian, Changhua Pei, Gaogang Xie. NPC: Rethinking Dataplane through Network-aware Packet Classification (ACM SIGCOMM, 2025)
 
 2. Zhuoran Ma, Yanbiao Li, Xin Wang, Xian Yu, Xinyi Zhang, Shiyi Liu, Kun Xie, Gaogang Xie, H-NRF: A High-performance and Evolutive NRF Framework for Large-scale Mobile Core Network (Asia-Pacific Workshop on Networking, 2025)
 
-3. Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement  (IEEE/ACM Transactions on Networking, 2025)
+3. Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement  (IEEE Transactions on Networking, 2025)
 
 4. Haitao Liu, Xinyi Zhang, Chuanmin Jia, Yanbiao Li, Gaogang Xie. AKI360: Enabling Highly Interactive 360-degree Video Streaming by Adaptive Keyframe Interval (ICASSP, 2025)
 
