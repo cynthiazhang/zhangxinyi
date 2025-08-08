@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #Xinyi ZHANG 张昕怡"
+title                    : ”Xinyi ZHANG 张昕怡"
 title_separator          : #"-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   name             : #"Xinyi ZHANG (张昕怡)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
-  location         : #"Earth"
+  location         : "Beijing, China"
   employer         : "Computer Network Information Center, CAS"
   uri              : # URL
   email            : "xyzhang@cnic.cn" 
