@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Researcher at the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS). I am also a Master's Supervisor at the University of Chinese Academy of Sciences (UCAS). I obtained my Bachelor's degree from Beijing University of Posts and Telecommunications in 2016, and my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences, in 2022 (advised by Prof. Gaogang Xie). 
+I am currently an Associate Professor at the Computer Network Information Center, Chinese Academy of Sciences (CNIC, CAS). I am also a Master's Supervisor at the University of Chinese Academy of Sciences (UCAS). I obtained my Bachelor's degree from Beijing University of Posts and Telecommunications in 2016, and my Ph.D. from the Institute of Computing Technology, Chinese Academy of Sciences, in 2022 (advised by Prof. Gaogang Xie). 
 
 My research interests include computer network system architecture, network artificial intelligence, 6G networks, and optimization of XR applications.
 
@@ -43,8 +43,8 @@ Publications
 14. Xinyi Zhang, Kavé Salamatian, Gaogang Xie.  Improving open virtual switch performance through tuple merge relaxation in software defined networks (IEEE Transactions on Network and Service Management, 2022)
 
 15. Haitao Liu, Xinyi Zhang, Xiang Zhou, Tianyun Zhang, Yanbiao Li, Zhenyu Li, Gaogang Xie. When 360-degree video meets 5G: a measurement study of delay in live streaming (ACM MobiArch, 2022)
-
-16.Xinyi Zhang, Gaogang Xie, Xin Wang, Penghao Zhang, Yanbiao Li, Kavé Salamatian. Fast online packet classification with convolutional neural network (IEEE/ACM Transactions on Networking, 2021)
-
-17. Xinyi Zhang, Kavé Salamatian, Gaogang Xie. Baking the ruleset: A heat propagation relaxation to packet classification (IFIP Networking Conference, 2020)
+    
+17. Xinyi Zhang, Gaogang Xie, Xin Wang, Penghao Zhang, Yanbiao Li, Kavé Salamatian. Fast online packet classification with convolutional neural network (IEEE/ACM Transactions on Networking, 2021)
+    
+19. Xinyi Zhang, Kavé Salamatian, Gaogang Xie. Baking the ruleset: A heat propagation relaxation to packet classification (IFIP Networking Conference, 2020)
 
