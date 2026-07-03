@@ -17,7 +17,7 @@ We are currently looking for interns. If you are interested, feel free to contac
 
 Selected Publications
 ======
-1. **Xinyi Zhang**, Qianrui Qiu, Zhiyuan Xu, Peng He, Guangxing Zhang, Luyiyun Li, Jianer Zhou, Kavé Salamatian, Gaogang Xie. Traffic-Aware Design for Multi-dimensional Lookup and Forwarding: From IP Routing to Packet Classification. (IEEE Transactions on Networking, 2026)
+1. **Xinyi Zhang**, Qianrui Qiu, Zhiyuan Xu, Peng He, Guangxing Zhang, Luyiyun Li, Jianer Zhou, Kavé Salamatian, Gaogang Xie. Traffic-Aware Design for Multi-dimensional Lookup and Forwarding: From IP Routing to Packet Classification. (IEEE Transactions on Networking, 2026) 
 
 2. Heng Yu, Kai Ren, Jiajun Liang, Baozeng Zhang, Guozhi Lin, **Xinyi Zhang**, Jian Wang, Jian Zhao, Ziyue Zhai, Liang Wang, Chao Pei, Jilong Wang, Gaogang Xie, Ang Chen, Congcong Miao. Dorado: Scaling SmartNIC Session Tables on Commodity DDRs. (ACM SIGCOMM, 2026) 
    
